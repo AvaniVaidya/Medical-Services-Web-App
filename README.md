@@ -1,4 +1,4 @@
-# Project Title: Health Care Service Locator Application\
+# Project Title: Health Care Service Locator Application
 
 ## Description
 A web application that helps to find nearest Health Care Service providers based on the given location. 
@@ -17,7 +17,7 @@ AWS EC2, ECS, ALB
 Docker
 REST API
 
-##Contact
+## Contact
 For any concerns or queries, drop a mail to - avanivaidya1997@gmail.com
 
 
