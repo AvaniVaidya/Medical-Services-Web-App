@@ -10,12 +10,12 @@ A web application that helps to find nearest Health Care Service providers based
 -Deployed frontend instances on both EC2 and Amazon ECS with ECR for redundancy and load distribution. Configured Application Load Balancer (ALB) to efficiently manage traffic and avoid bottlenecks in the backend infrastructure.
 
 ## Technologies used
-Java
-Spring boot
-Streamlit
-AWS EC2, ECS, ALB
-Docker
-REST API
+Java\
+Spring boot\
+Streamlit\
+AWS EC2, ECS, ALB\
+Docker\
+REST API\
 
 ## Contact
 For any concerns or queries, drop a mail to - avanivaidya1997@gmail.com
